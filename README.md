@@ -32,6 +32,6 @@ Welcome to the "Creating a Zoo" project! This project is designed to simulate a 
 2. Clone the repository or download the project files.
 
    ```bash
-   git clone https://github.com/your-username/valerietshuma-creating-a-zoo.git
+   git clone https://github.com/valerietshuma/creating-a-zoo.git
 
 
